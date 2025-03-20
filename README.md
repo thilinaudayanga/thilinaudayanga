@@ -4,7 +4,7 @@
 I am an Undergraduate BSc (Hons) in Industrial Information Technology at Uva Wellassa University.I am a passionate self-learner who is always eager to explore new technologies and enhance my skills in software development.</h3>
 
 🌱 I’m currently learning<br>
-- Programming Languages: Java, C++, Python <br>
+- Programming Languages: JavaScript, Java, C++, Python <br>
 - Databases: MongoDB, MySQL <br>
 - Design Tools: Blender
 
