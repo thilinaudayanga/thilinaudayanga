@@ -34,7 +34,8 @@ I am an Undergraduate BSc (Hons) in Industrial Information Technology at Uva Wel
 <br>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilinaudayanga&show_icons=true&locale=en&layout=compact" alt="thilinaudayanga" /></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilinaudayanga&theme=radical" alt="Languages Pie Chart" />
 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilinaudayanga&show_icons=true&locale=en" alt="thilinaudayanga" /></p>
 
